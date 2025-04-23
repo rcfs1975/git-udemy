@@ -11,3 +11,5 @@ Gostou do Curso
 Ex2anfjel8
 232.751.011
 
+https://blog.dsacademy.com.br/5-apis-gratuitas-para-extracao-de-dados-em-tempo-real/
+
